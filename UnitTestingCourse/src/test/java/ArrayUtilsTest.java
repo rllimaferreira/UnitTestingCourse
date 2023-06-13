@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-import Excecoes.ExcecaoDeListaVazia;
+import excecoes.ExcecaoDeListaVazia;
 
 public class ArrayUtilsTest {
 
